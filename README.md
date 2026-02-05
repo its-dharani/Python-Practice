@@ -5,6 +5,35 @@ This repository is a personal learning space where I upload **small Python progr
 Each file represents a concept I’ve practiced intentionally — focusing on clarity, logic, and consistency rather than complexity.
 
 ---
+## Daily Practice
+
+### Day 1 – Number Guessing Game
+- Used `random` to generate a number  
+- Took user input and compared values  
+- Practiced basic `if/else` conditions  
+
+---
+
+### Day 2 – Password Strength Checker
+- Checked password length  
+- Looked for at least one uppercase letter and one number  
+- Used a loop and simple boolean variables  
+
+---
+
+### Day 3 – Simple Calculator
+- Took two numbers and an operator as input  
+- Used basic arithmetic operations  
+- Used `if/elif` to choose the operation  
+
+---
+
+### Day 4 – String Combinations Program
+- Sorted characters of a string  
+- Generated combinations of different lengths  
+- Used the `itertools` module  
+
+---
 
 ## 🎯 Purpose of this Repository
 - To revise Python fundamentals regularly
