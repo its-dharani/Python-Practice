@@ -35,6 +35,13 @@ Each file represents a concept I’ve practiced intentionally — focusing on cl
 
 ---
 
+### Day 5 – Runner-Up Score Finder
+- Read input scores and stored them in a list  
+- Removed duplicate values using a set  
+- Sorted the unique scores to find the ranking  
+- Printed the second highest score as the runner-up  
+
+
 ## 🎯 Purpose of this Repository
 - To revise Python fundamentals regularly
 - To improve problem-solving and logical thinking
