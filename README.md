@@ -57,6 +57,14 @@ Each file represents a concept I’ve practiced intentionally — focusing on cl
 
 ---
 
+## Day 7 – Armstrong Number Program
+- Got an integer as an input
+- converted them into a list of digits using map()
+- Calculated the sum of each digit raised to the power of the total number of digits
+- Compared the result with the original number to determine the output
+
+---
+
 ## 🎯 Purpose of this Repository
 - To revise Python fundamentals regularly
 - To improve problem-solving and logical thinking
