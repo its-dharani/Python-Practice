@@ -39,8 +39,23 @@ Each file represents a concept I’ve practiced intentionally — focusing on cl
 - Read input scores and stored them in a list  
 - Removed duplicate values using a set  
 - Sorted the unique scores to find the ranking  
-- Printed the second highest score as the runner-up  
+- Printed the second highest score as the runner-up
 
+---
+
+## Day 6 – Perfect Number Program
+- Created a program to check whether a number is a **Perfect Number**
+- Found all factors of the number except the number itself
+- Calculated the sum of those factors
+- Compared the sum with the original number to determine the result
+
+**Personal Experience**
+- I wrote this program during a coding event where we were introduced to the concept of Perfect Numbers and asked to implement it.
+- After understanding the definition, I immediately started thinking about the logic and translated it into code.
+- It might seem like a small task, but it felt like a big personal win because I was able to write the solution confidently while many others were still figuring out their code.
+- It was one of those moments that made me feel proud of my progress in problem solving.
+
+---
 
 ## 🎯 Purpose of this Repository
 - To revise Python fundamentals regularly
