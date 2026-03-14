@@ -2,8 +2,6 @@
 
 This repository is a personal learning space where I upload **small Python programs** to recall, revise, and strengthen my understanding of **core Python concepts**.
 
-Each file represents a concept I’ve practiced intentionally — focusing on clarity, logic, and consistency rather than complexity.
-
 ---
 ## Daily Practice
 
@@ -62,6 +60,23 @@ Each file represents a concept I’ve practiced intentionally — focusing on cl
 - converted them into a list of digits using map()
 - Calculated the sum of each digit raised to the power of the total number of digits
 - Compared the result with the original number to determine the output
+
+---
+
+### Day 8
+
+**Swap Case**
+- Wrote a program to swap uppercase letters to lowercase and vice versa
+- Used `islower()` and `isupper()` to check character cases
+- Traversed the string using a loop
+- Converted the result list back into a string using `"".join()`
+- There is an inbuilt function, but whats more fun that writing it all by yourself
+
+**Lyrics Typewriter**
+- Created a script that prints song lyrics with delays
+- Used `time.sleep()` to control timing between lines
+- Printed characters one by one to create a typewriter effect
+- Practiced working with lists of tuples and loops
 
 ---
 
