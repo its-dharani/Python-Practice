@@ -63,7 +63,7 @@ This repository is a personal learning space where I upload **small Python progr
 
 ---
 
-### Day 8
+## Day 8 - Swap Case and Lyrics Typewriter
 
 **Swap Case**
 - Wrote a program to swap uppercase letters to lowercase and vice versa
